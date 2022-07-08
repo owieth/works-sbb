@@ -111,7 +111,10 @@ The Esta Cloud Pipeline is mapped via a central configuration structure in JSON 
 <hr>
 <br>
 
-<h3>Demo</h3>
+<h3>Overview Pipeline</h3>
 <img src="images/pipeline.png">
 
+
+<h3>Overview Buildprocess</h3>
+<img src="images/process.png">
 
