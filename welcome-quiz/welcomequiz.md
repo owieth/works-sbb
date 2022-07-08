@@ -1,11 +1,18 @@
-# Welcome Quiz @ SBB (2018 - 2019)
+<h1>Welcome Quiz @ SBB (2018 - 2019)</h1>
 
-Während zwei Tagen pro Semester wurden Einführungstage für neuangestellte Mitarbeiter durchgeführt. Eine der Hauptattraktion ist das Willkommensquiz. Ziel des Quizes ist es, die SBB genauer kennen zu lernen. In 5er Gruppen treten die Teams gegeneinander an. 
+Introductory days were held for newly hired employees for two days per semester. One of the main attractions is the welcome quiz. The aim of the quiz is to learn more about the SBB. The teams compete against each other in groups of 5.
 
-Verwendete Technologien:
+<br>
 
-- React
-- Websockets
-- NodeJS
-- PostgreSQL
+<h3>Technologies</h3>
 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="">
+
+<br>
+<hr>
+<br>
+
+<h3>Demo</h3>
+<img src="images/demo.png" alt="">
