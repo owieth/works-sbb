@@ -1,6 +1,6 @@
 <h1>Bahnknowhow @ SBB (2020 - 2022)</h1>
 
-During almost 2 Years, I was one of many core developers building this long anticipated application for saving important company intern knowledge. You can imagine this application something like a wiki on steroids :D (including games, quizes & roadmaps)
+During almost 2 Years, I was one of many core developers building this long anticipated application for saving important company intern knowledge. You can imagine this application something like a wiki on steroids :D (including games, quizzes & roadmaps)
 
 <h2>What is Bahnknowhow?</h2>
 
